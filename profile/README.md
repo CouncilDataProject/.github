@@ -31,6 +31,10 @@ are available on [councildataproject.org](https://councildataproject.org).
 | Boston      | [![Event Gather](https://github.com/CouncilDataProject/boston/actions/workflows/event-gather-pipeline.yml/badge.svg) ](https://github.com/CouncilDataProject/boston/actions/workflows/event-gather-pipeline.yml)         |
 | Oakland      | [![Event Gather](https://github.com/CouncilDataProject/oakland/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/oakland/actions/workflows/event-gather-pipeline.yml)         |
 | Charlotte      | [![Event Gather](https://github.com/CouncilDataProject/charlotte/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/charlotte/actions/workflows/event-gather-pipeline.yml)         |
+| San Jose      | [![Event Gather](https://github.com/CouncilDataProject/san-jose/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/san-jose/actions/workflows/event-gather-pipeline.yml)         |
+| Mountain View      | [![Event Gather](https://github.com/CouncilDataProject/mountain-view/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/mountain-view/actions/workflows/event-gather-pipeline.yml)         |
+| Milwaukee      | [![Event Gather](https://github.com/CouncilDataProject/milwaukee/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/milwaukee/actions/workflows/event-gather-pipeline.yml)         |
+| Long Beach      | [![Event Gather](https://github.com/CouncilDataProject/long-beach/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/long-beach/actions/workflows/event-gather-pipeline.yml)         |
 
 
 ## Admin Jobs
