@@ -17,6 +17,8 @@ are available on [councildataproject.org](https://councildataproject.org).
 | cdp-backend     | [![CI](https://github.com/CouncilDataProject/cdp-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/CouncilDataProject/cdp-backend/actions/workflows/ci.yml)         |
 | cdp-frontend     | [![Build Main](https://github.com/CouncilDataProject/cdp-frontend/actions/workflows/build-main.yml/badge.svg)](https://github.com/CouncilDataProject/cdp-frontend/actions/workflows/build-main.yml)         |
 | cdp-scrapers     | [![Build Main](https://github.com/CouncilDataProject/cdp-scrapers/actions/workflows/build-main.yml/badge.svg)](https://github.com/CouncilDataProject/cdp-scrapers/actions/workflows/build-main.yml)         |
+| cdp-data     | [![CI](https://github.com/CouncilDataProject/cdp-data/actions/workflows/ci.yml/badge.svg)](https://github.com/CouncilDataProject/cdp-data/actions/workflows/ci.yml)         |
+| speakerbox     | [![Build](https://github.com/CouncilDataProject/speakerbox/actions/workflows/build-main.yml/badge.svg)](https://github.com/CouncilDataProject/speakerbox/actions/workflows/build-main.yml)         |
 
 
 ## Deployment Gathers
