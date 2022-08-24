@@ -37,6 +37,8 @@ are available on [councildataproject.org](https://councildataproject.org).
 | [Mountain View](https://github.com/CouncilDataProject/mountain-view)      | [![Event Gather](https://github.com/CouncilDataProject/mountain-view/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/mountain-view/actions/workflows/event-gather-pipeline.yml)         |
 | [Milwaukee](https://github.com/CouncilDataProject/milwaukee)      | [![Event Gather](https://github.com/CouncilDataProject/milwaukee/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/milwaukee/actions/workflows/event-gather-pipeline.yml)         |
 | [Long Beach](https://github.com/CouncilDataProject/long-beach)      | [![Event Gather](https://github.com/CouncilDataProject/long-beach/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/long-beach/actions/workflows/event-gather-pipeline.yml)         |
+| [Albuquerque](https://github.com/CouncilDataProject/albuquerque)      | [![Event Gather](https://github.com/CouncilDataProject/albuquerque/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/albuquerque/actions/workflows/event-gather-pipeline.yml)         |
+| [Richmond](https://github.com/CouncilDataProject/richmond)      | [![Event Gather](https://github.com/CouncilDataProject/richmond/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/richmond/actions/workflows/event-gather-pipeline.yml)         |
 
 
 ## Admin Jobs
