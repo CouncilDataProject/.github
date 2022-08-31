@@ -39,6 +39,7 @@ are available on [councildataproject.org](https://councildataproject.org).
 | [Long Beach](https://github.com/CouncilDataProject/long-beach)      | [![Event Gather](https://github.com/CouncilDataProject/long-beach/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/long-beach/actions/workflows/event-gather-pipeline.yml)         |
 | [Albuquerque](https://github.com/CouncilDataProject/albuquerque)      | [![Event Gather](https://github.com/CouncilDataProject/albuquerque/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/albuquerque/actions/workflows/event-gather-pipeline.yml)         |
 | [Richmond](https://github.com/CouncilDataProject/richmond)      | [![Event Gather](https://github.com/CouncilDataProject/richmond/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/richmond/actions/workflows/event-gather-pipeline.yml)         |
+| [Louisville](https://github.com/CouncilDataProject/louisville)      | [![Event Gather](https://github.com/CouncilDataProject/louisville/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/louisville/actions/workflows/event-gather-pipeline.yml)         |
 
 
 ## Admin Jobs
