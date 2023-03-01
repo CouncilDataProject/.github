@@ -41,6 +41,7 @@ are available on [councildataproject.org](https://councildataproject.org).
 | [Richmond](https://github.com/CouncilDataProject/richmond)      | [![Event Gather](https://github.com/CouncilDataProject/richmond/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/richmond/actions/workflows/event-gather-pipeline.yml)         |
 | [Louisville](https://github.com/CouncilDataProject/louisville)      | [![Event Gather](https://github.com/CouncilDataProject/louisville/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/louisville/actions/workflows/event-gather-pipeline.yml)         |
 | [Atlanta](https://github.com/CouncilDataProject/atlanta)      | [![Event Gather](https://github.com/CouncilDataProject/atlanta/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/atlanta/actions/workflows/event-gather-pipeline.yml)         |
+| [Pittsburgh](https://github.com/CouncilDataProject/pittsburgh-pa)      | [![Event Gather](https://github.com/CouncilDataProject/pittsburgh-pa/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/pittsburgh-pa/actions/workflows/event-gather-pipeline.yml)         |
 
 
 ## Admin Jobs
