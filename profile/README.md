@@ -32,29 +32,19 @@ If you are interested in contributing in any way (development, design, project m
 
 ## Deployments
 
-| Deployment    | Event Gather Status                                                                                                                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Seattle](https://github.com/CouncilDataProject/seattle)     | [![Event Gather](https://github.com/CouncilDataProject/seattle/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/seattle/actions/workflows/event-gather-pipeline.yml)         |
-| [King County](https://github.com/CouncilDataProject/king-county) | [![Event Gather](https://github.com/CouncilDataProject/king-county/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/king-county/actions/workflows/event-gather-pipeline.yml) |
-| [Portland](https://github.com/CouncilDataProject/portland)    | [![Event Gather](https://github.com/CouncilDataProject/portland/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/portland/actions/workflows/event-gather-pipeline.yml)       |
-| [Denver](https://github.com/CouncilDataProject/denver)      | [![Event Gather](https://github.com/CouncilDataProject/denver/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/denver/actions/workflows/event-gather-pipeline.yml)           |
-| [Alameda](https://github.com/CouncilDataProject/alameda)     | [![Event Gather](https://github.com/CouncilDataProject/alameda/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/alameda/actions/workflows/event-gather-pipeline.yml)         |
-| [Oakland](https://github.com/CouncilDataProject/oakland)      | [![Event Gather](https://github.com/CouncilDataProject/oakland/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/oakland/actions/workflows/event-gather-pipeline.yml)         |
-| [Charlotte](https://github.com/CouncilDataProject/charlotte)      | [![Event Gather](https://github.com/CouncilDataProject/charlotte/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/charlotte/actions/workflows/event-gather-pipeline.yml)         |
-| [San Jose](https://github.com/CouncilDataProject/san-jose)      | [![Event Gather](https://github.com/CouncilDataProject/san-jose/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/san-jose/actions/workflows/event-gather-pipeline.yml)         |
-| [Mountain View](https://github.com/CouncilDataProject/mountain-view)      | [![Event Gather](https://github.com/CouncilDataProject/mountain-view/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/mountain-view/actions/workflows/event-gather-pipeline.yml)         |
-| [Louisville](https://github.com/CouncilDataProject/louisville)      | [![Event Gather](https://github.com/CouncilDataProject/louisville/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/louisville/actions/workflows/event-gather-pipeline.yml)         |
-| [Menifee](https://github.com/CouncilDataProject/city-of-menifee)      | [![Event Gather](https://github.com/CouncilDataProject/city-of-menifee/actions/workflows/event-gather-pipeline.yml/badge.svg)](https://github.com/CouncilDataProject/city-of-menifee/actions/workflows/event-gather-pipeline.yml)         |
+⚠️⚠️ All deployments are not collecting or processing any new data. We will be archiving them soon. ⚠️⚠️
 
-## Deployments Maintained By Others
-
-* [Asheville](https://github.com/sunshine-request/cdp-asheville)
-* [Montana State Legislature](https://github.com/OpenMontana/montana-legislature-council-data-project)
-* [Missoula](https://github.com/OpenMontana/missoula-council-data-project)
-
-
-## Inactive Deployments (In Need of A Maintainer)
-
+* [Seattle](https://github.com/CouncilDataProject/seattle)
+* [King County](https://github.com/CouncilDataProject/king-county)
+* [Portland](https://github.com/CouncilDataProject/portland)
+* [Denver](https://github.com/CouncilDataProject/denver)
+* [Alameda](https://github.com/CouncilDataProject/alameda)
+* [Oakland](https://github.com/CouncilDataProject/oakland)
+* [Charlotte](https://github.com/CouncilDataProject/charlotte)
+* [San Jose](https://github.com/CouncilDataProject/san-jose)
+* [Mountain View](https://github.com/CouncilDataProject/mountain-view)
+* [Louisville](https://github.com/CouncilDataProject/louisville)
+* [Menifee](https://github.com/CouncilDataProject/city-of-menifee)
 * [Milwaukee](https://github.com/CouncilDataProject/milwaukee)
 * [Boston](https://github.com/CouncilDataProject/boston)
 * [Richmond](https://github.com/CouncilDataProject/richmond)
@@ -62,3 +52,11 @@ If you are interested in contributing in any way (development, design, project m
 * [Long Beach](https://github.com/CouncilDataProject/long-beach)
 * [Albuquerque](https://github.com/CouncilDataProject/albuquerque)
 * [Pittsburgh](https://github.com/CouncilDataProject/pittsburgh-pa)
+
+## Deployments Maintained By Others
+
+Some of these are active, some are not.
+
+* [Asheville](https://github.com/sunshine-request/cdp-asheville)
+* [Montana State Legislature](https://github.com/OpenMontana/montana-legislature-council-data-project)
+* [Missoula](https://github.com/OpenMontana/missoula-council-data-project)
