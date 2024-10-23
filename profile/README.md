@@ -32,7 +32,7 @@ If you are interested in contributing in any way (development, design, project m
 
 ## Deployments
 
-⚠️⚠️ All deployments are not collecting or processing any new data. We will be archiving them soon. ⚠️⚠️
+⚠️⚠️ Some deployments are not collecting or processing new data. Instances without a maintainer will be archived ⚠️⚠️
 
 * [Seattle](https://github.com/CouncilDataProject/seattle)
 * [King County](https://github.com/CouncilDataProject/king-county)
